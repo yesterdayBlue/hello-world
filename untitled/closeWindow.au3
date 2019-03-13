@@ -1,0 +1,1 @@
+   ControlClick("´ò¿ª", "", "Button2");

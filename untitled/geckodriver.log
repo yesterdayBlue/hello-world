@@ -1,0 +1,906 @@
+1550037289372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.ysrldlrI6gBG"
+1550037293420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550037293420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550037302059	Marionette	INFO	Listening on port 53484
+1550037302174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Child 9760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11732, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 11732, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 11732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11732, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1550037355353	Marionette	INFO	Stopped listening on port 53484
+[GPU 8224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1550037439018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.vKRQjmfTAAdU"
+1550037440234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550037440234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550037444284	Marionette	INFO	Listening on port 53854
+1550037444450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Child 11496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550037478209	Marionette	INFO	Stopped listening on port 53854
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550037736930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.xxkkrXq7uAGS"
+1550037738114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550037738114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 8944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550037746807	Marionette	INFO	Listening on port 54532
+1550037746869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Parent 14244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550037768322	Marionette	INFO	Stopped listening on port 54532
+[GPU 7940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550037852443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.EgdRU9BgFDms"
+1550037856345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550037856345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 13712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550037861106	Marionette	INFO	Listening on port 54814
+1550037861190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10.95.14.49/, line 1: ReferenceError: Resize is not defined
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Parent 9640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550038012216	Marionette	INFO	Stopped listening on port 54814
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550038138552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.x7WHskzuQgNk"
+1550038140440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550038140440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550038143864	Marionette	INFO	Listening on port 55541
+1550038143990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10.95.14.49/, line 1: ReferenceError: Resize is not defined
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550038196558	Marionette	INFO	Stopped listening on port 55541
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550038348387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.fdcA6KHkXcS2"
+1550038349570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550038349570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 13680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550038361461	Marionette	INFO	Listening on port 56147
+1550038361544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Child 13296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0097,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350110,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1550038440894	Marionette	INFO	Stopped listening on port 56147
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550038448304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.Lo7zfMqPUY2M"
+1550038449982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550038449983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 8744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550038454630	Marionette	INFO	Listening on port 56442
+1550038454886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Parent 8140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550038480027	Marionette	INFO	Stopped listening on port 56442
+[GPU 8444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550039060043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.CcYN7LIQZqgm"
+1550039061236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550039061236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 3428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550039075112	Marionette	INFO	Listening on port 57868
+1550039075426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 13952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13952, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Child 5920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550040921420	Marionette	INFO	Stopped listening on port 57868
+[GPU 11536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1550046622197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.yRSMrvQRptol"
+*** You are running in headless mode.
+1550046625277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550046625277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550046650416	Marionette	INFO	Listening on port 14131
+1550046650886	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Parent 6388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1550049426168	Marionette	INFO	Stopped listening on port 14131
+[Parent 6388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550051073953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.q4ecYowC6Dpn"
+1550051076249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550051076250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 8780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550051083227	Marionette	INFO	Listening on port 26746
+1550051083512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+1550051093029	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1550051093232	Marionette	INFO	Stopped listening on port 26746
+[Child 13812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: resource://services-common/kinto-offline-client.js, line 568: Error: getLastModified() A request was aborted, for example through a call to IDBTransaction.abort.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550051167951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.jQeAOiQHq4sA"
+1550051170592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550051170592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550051181146	Marionette	INFO	Listening on port 27000
+1550051181195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+1550051190413	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1550051190617	Marionette	INFO	Stopped listening on port 27000
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Child 1636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+observe@resource://gre/modules/AsyncShutdown.jsm:541:9
+
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 103: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550051259846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.U4BOcohrNUA8"
+1550051260463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550051260463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550051265392	Marionette	INFO	Listening on port 27247
+1550051265880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+1550051275516	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 103: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+1550051287384	Marionette	INFO	Stopped listening on port 27247
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550051380932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.dJGn87BjvwMh"
+1550051381783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550051381784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 13244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550051385893	Marionette	INFO	Listening on port 27562
+1550051386383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Parent 5632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550051459615	Marionette	INFO	Stopped listening on port 27562
+[GPU 5084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550051461411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.B4kLhK9DL9Lk"
+1550051462014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550051462015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 8208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550051465760	Marionette	INFO	Listening on port 27775
+1550051465853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 13680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550052995744	Marionette	INFO	Stopped listening on port 27775
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x540005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+2911912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Parent 5572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 5572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 5572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550052993969	Marionette	INFO	Stopped listening on port 31926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1550053011655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.B0hDFRAt2vCH"
+1550053013586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550053013586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550053019746	Marionette	INFO	Listening on port 32244
+1550053019964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Child 11840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550053071415	Marionette	INFO	Stopped listening on port 32244
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550053907707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.XFcyq5GKq2wB"
+1550053908301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550053908302	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550053911583	Marionette	INFO	Listening on port 34743
+1550053912041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Child 12904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550054057204	Marionette	INFO	Stopped listening on port 34743
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b1550054057880	addons.webextension.screenshots@mozilla.org	WARN	Loading exten
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+f.js/
+1550054057880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550054068907	Marionette	INFO	Listening on port 35095
+1550054069202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10.95.14.49/, line 1: ReferenceError: Resize is not defined
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 1056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 1056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 1056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550054123312	Marionette	INFO	Stopped listening on port 35095
+[GPU 11548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550111086932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.UlEjI7KqGoZR"
+1550111089585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550111089585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550111095635	Marionette	INFO	Listening on port 9285
+1550111095838	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550111144621	Marionette	INFO	Stopped listening on port 9285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550111212070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.LQ6JtkML6FKB"
+1550111212649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550111212649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550111215503	Marionette	INFO	Listening on port 9419
+1550111215898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 5360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 5360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550111611626	Marionette	INFO	Stopped listening on port 9419
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550112165939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.7rvmbqlW30dv"
+1550112166497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550112166497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550112169101	Marionette	INFO	Listening on port 10519
+1550112169177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10.95.14.49/, line 1: ReferenceError: Resize is not defined
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Parent 15200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550112203663	Marionette	INFO	Stopped listening on port 10519
+[GPU 7148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550112206893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.bUdNvReL1AwI"
+1550112207460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550112207460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 14624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550112210271	Marionette	INFO	Listening on port 10583
+1550112210725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Parent 2688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550112230487	Marionette	INFO	Stopped listening on port 10583
+[GPU 1896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550112475180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.jnBPt27lVRgX"
+1550112475752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550112475752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550112479041	Marionette	INFO	Listening on port 10874
+1550112479512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Parent 5876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550112596458	Marionette	INFO	Stopped listening on port 10874
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550112601491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.JbsaUebnkxLH"
+1550112602080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550112602080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550112604981	Marionette	INFO	Listening on port 11021
+1550112605323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Child 8872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550112637970	Marionette	INFO	Stopped listening on port 11021
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550112674836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.j6Y6qPyxKWqC"
+1550112675450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550112675450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550112678009	Marionette	INFO	Listening on port 11107
+1550112678068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Parent 9496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550112714354	Marionette	INFO	Stopped listening on port 11107
+[GPU 14312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550112717271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.7WPV4rRf0eFa"
+1550112718089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550112718090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550112722410	Marionette	INFO	Listening on port 11174
+1550112722702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 6008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550112913795	Marionette	INFO	Stopped listening on port 11174
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550113646760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.mel6n4w3Rv5J"
+*** You are running in headless mode.
+1550113647366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550113647366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1550113650404	Marionette	INFO	Listening on port 12335
+1550113650601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10.95.14.49/, line 1: ReferenceError: Resize is not defined
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/filter/filter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/httpIntercept
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/ajax
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/header
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/uiService
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/sessionService
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/directive/common
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/traverseTree
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/authService
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/rootCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/quickcheck/controller/quickcheck
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/system/controller/sys
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/analysis/controller/ana
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/resultaudit/controller/audit-sy
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/resultaudit/controller/audit
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/projectcheck
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/resultaudit/controller/dashboard
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/projectcreate
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/codeDetailCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/projectdetail
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/collectionresult/controller/collectionresult
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/report/controller/report
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/home/controller/home
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/loginCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/sshCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/repositoryCtrl
+http://requirejs.org/docs/errors.html#scripterror
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+g manifest: Invalid host permission: resource://pdf.js/
+1550113692413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 9208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550113696395	Marionette	INFO	Listening on port 12423
+1550113696596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/rootCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/quickcheck/controller/quickcheck
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/traverseTree
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/sessionService
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/authService
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/system/controller/sys
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/analysis/controller/ana
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/resultaudit/controller/audit
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/resultaudit/controller/audit-sy
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/resultaudit/controller/dashboard
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/projectcheck
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/projectcreate
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/projectdetail
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/codeDetailCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/collectionresult/controller/collectionresult
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/report/controller/report
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/home/controller/home
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/loginCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/repositoryCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/sshCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/report/service/service
+http://requirejs.org/docs/errors.html#scripterror
+[Child 6084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550113725860	Marionette	INFO	Stopped listening on port 12423
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550113735832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.QoaAg16MbSdc"
+1550113736440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550113736440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550113739488	Marionette	INFO	Listening on port 12515
+1550113739660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/uiService
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/traverseTree
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/report/service/service
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/rootCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/sessionService
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/service/authService
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/quickcheck/controller/quickcheck
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/system/controller/sys
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/resultaudit/controller/audit-sy
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/resultaudit/controller/audit
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/analysis/controller/ana
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/resultaudit/controller/dashboard
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/projectcheck
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/projectcreate
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/projectdetail
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/projectcheck/controller/codeDetailCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/collectionresult/controller/collectionresult
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/home/controller/home
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/loginCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/sshCtrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/report/controller/report
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://10.95.14.49/app/vendor/requirejs/require.js, line 166: Error: Script error for: js/common/controller/repositoryCtrl
+http://requirejs.org/docs/errors.html#scripterror
+[Parent 8240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550113759603	Marionette	INFO	Stopped listening on port 12515
+[GPU 14112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550123726377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoyiwei\\AppData\\Local\\Temp\\rust_mozprofile.g67JbvtU4NsV"
+1550123728366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550123728366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550123731729	Marionette	INFO	Listening on port 21540
+1550123731809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 310: unreachable code after return statement
+JavaScript warning: https://10.95.14.49/app/vendor/datepicker/js/datepicker.js, line 322: unreachable code after return statement
+JavaScript error: https://10.95.14.49/app/vendor/angularjs/angular.js, line 63: Error: [$rootScope:infdig] 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: []
+http://errors.angularjs.org/1.3.11/$rootScope/infdig?p0=10&p1=%5B%5D
+[Child 14172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550123795315	Marionette	INFO	Stopped listening on port 21540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
